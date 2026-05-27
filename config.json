@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configcender",
+        "uuid": 19368388,
+        "checksum": "rvrmjj"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
